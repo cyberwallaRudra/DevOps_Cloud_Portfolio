@@ -2,15 +2,7 @@
 
 A React + Vite portfolio focused on practical Cloud, DevOps, infrastructure and security learning.
 
-## What was cleaned up
 
-- Removed publishing placeholders and generic social URLs.
-- Added the owner's phone contact and real social profiles.
-- Moved site identity, contact details and social links into `src/config/site.js`.
-- Split reusable icons, headings and case-study details into focused components.
-- Added a project `.gitignore` so dependencies and build output are not committed.
-- Kept the existing visual direction, animations, project data and public assets intact.
-- Reworked the contact form so it copies a prepared message instead of using a fake email address.
 
 ## Project structure
 
@@ -43,7 +35,7 @@ A React + Vite portfolio focused on practical Cloud, DevOps, infrastructure and 
 
 ## Contact / profiles
 
-- Phone: +91 84099 31390
+- Phone: +91 840-------
 - GitHub: https://github.com/cyberwallaRudra
 - LinkedIn: https://www.linkedin.com/in/pankaj-kumar-6386b4250/
 - YouTube: https://youtube.com/@cyberwalla_by?si=0OXywhqeyWcFy01E
@@ -67,7 +59,7 @@ Edit personal contact links in `src/config/site.js` rather than searching throug
 
 ### Contact
 - Email: `pk8507giri@gmail.com`
-- Phone: `+91 84099 31390`
+- Phone: `+91 840---------`
 - GitHub: `https://github.com/cyberwallaRudra`
 - LinkedIn: `https://www.linkedin.com/in/pankaj-kumar-6386b4250/`
 - YouTube: `https://youtube.com/@cyberwalla_by`
